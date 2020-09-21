@@ -9,7 +9,8 @@ D:\workspace\C#\LeetCodeTests1\bin\Debug\nunit.framework.pdb
 D:\workspace\C#\LeetCodeTests1\bin\Debug\nunit.framework.xml
 D:\workspace\C#\LeetCodeTests1\obj\Debug\LeetCodeTests.csproj.CoreCompileInputs.cache
 D:\workspace\C#\LeetCodeTests1\obj\Debug\LeetCodeTests.csproj.CopyComplete
-D:\workspace\C#\LeetCodeTests1\bin\Debug\LeetCodeTests.dll
-D:\workspace\C#\LeetCodeTests1\bin\Debug\LeetCodeTests.pdb
-D:\workspace\C#\LeetCodeTests1\obj\Debug\LeetCodeTests.dll
-D:\workspace\C#\LeetCodeTests1\obj\Debug\LeetCodeTests.pdb
+D:\workspace\C#\LeetCodeTests1\bin\Debug\LeetCodeTests1.dll
+D:\workspace\C#\LeetCodeTests1\bin\Debug\LeetCodeTests1.pdb
+D:\workspace\C#\LeetCodeTests1\obj\Debug\LeetCodeTests.csprojAssemblyReference.cache
+D:\workspace\C#\LeetCodeTests1\obj\Debug\LeetCodeTests1.dll
+D:\workspace\C#\LeetCodeTests1\obj\Debug\LeetCodeTests1.pdb

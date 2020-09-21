@@ -90,6 +90,7 @@
     <Compile Include="HashTable\MyHashSetTests.cs" />
     <Compile Include="HashTable\SingleNumberCSTests.cs" />
     <Compile Include="HashTable\TwoSumCsTests.cs" />
+    <Compile Include="HashTable\ValidSudokuTests.cs" />
     <Compile Include="LinkedList\AddTwoNumbersCSTests.cs" />
     <Compile Include="LinkedList\CopyListWithRandomPointerTests.cs" />
     <Compile Include="LinkedList\FlattenAMultilevelDoublyLinkedListTests.cs" />
