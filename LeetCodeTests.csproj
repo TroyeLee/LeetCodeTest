@@ -79,6 +79,7 @@
     <Compile Include="CommonUtilTests.cs" />
     <Compile Include="HashTable\ContainsDuplicateCSTests.cs" />
     <Compile Include="HashTable\ContainsDuplicateIITests.cs" />
+    <Compile Include="HashTable\FindDuplicateSubtreesCSTests.cs" />
     <Compile Include="HashTable\FirstUniqueCharacterInAStringTests.cs" />
     <Compile Include="HashTable\GroupAnagramsCSTests.cs" />
     <Compile Include="HashTable\HappyNumberTests.cs" />

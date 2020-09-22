@@ -15,7 +15,7 @@ namespace LeetCode.Tests
         [Test()]
         public void ConvertToCamelCaseTest()
         {
-            string title = "valid-sudoku";
+            string title = "find-duplicate-subtrees";
             string result = new CommonUtil().ConvertToCamelCase(title);
         }
 
