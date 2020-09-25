@@ -15,7 +15,7 @@ namespace LeetCode.Tests
         [Test()]
         public void ConvertToCamelCaseTest()
         {
-            string title = "longest-substring-without-repeating-characters";
+            string title = "top-k-frequent-elements";
             string result = new CommonUtil().ConvertToCamelCase(title);
         }
 
