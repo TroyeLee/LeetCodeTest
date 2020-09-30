@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework.Internal;
 using System.Runtime.CompilerServices;
+using LeetCode.Domain;
 
 namespace LeetCode.LinkedList.Tests
 {

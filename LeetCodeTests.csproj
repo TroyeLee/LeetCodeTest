@@ -77,6 +77,8 @@
     <Compile Include="ArrayAndString\TwoSumIIInputArrayIsSortedTests.cs" />
     <Compile Include="ArrayAndString\ZeroMatrixLcciTests.cs" />
     <Compile Include="CommonUtilTests.cs" />
+    <Compile Include="DataStructureBinaryTree\BinaryTreePostorderTraversalTests.cs" />
+    <Compile Include="DataStructureBinaryTree\BinaryTreePreorderTraversalTests.cs" />
     <Compile Include="HashTable\ContainsDuplicateCSTests.cs" />
     <Compile Include="HashTable\ContainsDuplicateIITests.cs" />
     <Compile Include="HashTable\FindDuplicateSubtreesCSTests.cs" />

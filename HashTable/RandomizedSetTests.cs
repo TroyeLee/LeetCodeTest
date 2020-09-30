@@ -35,5 +35,29 @@ namespace LeetCode.HashTable.Tests
             random = test.GetRandom();
 
         }
+
+        public void RandomizedSetTest02()
+        {
+            RandomizedSet test = new RandomizedSet();
+            bool result = test.Remove(0);
+            Assert.IsFalse(result);
+
+            result = test.Remove(0);
+            Assert.IsFalse(result);
+
+            result = test.Insert(0);
+            Assert.IsTrue(result);
+
+            int random = test.GetRandom();
+
+            result = test.Remove(1);
+            Assert.IsTrue(result);
+
+            result = test.Insert(2);
+            Assert.IsFalse(result);
+
+            random = test.GetRandom();
+
+        }
     }
 }
