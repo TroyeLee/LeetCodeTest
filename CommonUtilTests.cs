@@ -15,7 +15,7 @@ namespace LeetCode.Tests
         [Test()]
         public void ConvertToCamelCaseTest()
         {
-            string title = "binary-tree-postorder-traversal";
+            string title = "path-sum";
             string result = new CommonUtil().ConvertToCamelCase(title);
         }
 
