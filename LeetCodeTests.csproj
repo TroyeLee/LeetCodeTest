@@ -80,8 +80,11 @@
     <Compile Include="DataStructureBinaryTree\BinaryTreeLevelOrderTraversalTests.cs" />
     <Compile Include="DataStructureBinaryTree\BinaryTreePostorderTraversalTests.cs" />
     <Compile Include="DataStructureBinaryTree\BinaryTreePreorderTraversalTests.cs" />
+    <Compile Include="DataStructureBinaryTree\ConstructBinaryTreeFromInorderAndPostorderTraversalTests.cs" />
+    <Compile Include="DataStructureBinaryTree\ConstructBinaryTreeFromPreorderAndInorderTraversalTests.cs" />
     <Compile Include="DataStructureBinaryTree\MaximumDepthOfBinaryTreeTests.cs" />
     <Compile Include="DataStructureBinaryTree\PathSumTests.cs" />
+    <Compile Include="DataStructureBinaryTree\PopulatingNextRightPointersInEachNodeTests.cs" />
     <Compile Include="DataStructureBinaryTree\SymmetricTreeTests.cs" />
     <Compile Include="HashTable\ContainsDuplicateCSTests.cs" />
     <Compile Include="HashTable\ContainsDuplicateIITests.cs" />
