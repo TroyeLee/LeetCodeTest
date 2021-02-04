@@ -15,7 +15,7 @@ namespace LeetCode.Tests
         [Test()]
         public void ConvertToCamelCaseTest()
         {
-            string title = "populating-next-right-pointers-in-each-node-ii";
+            string title = "reverse-integer";
             string result = new CommonUtil().ConvertToCamelCase(title);
         }
 

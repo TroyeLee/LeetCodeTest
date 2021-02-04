@@ -62,6 +62,8 @@
     <Compile Include="ArrayAndString\LongestCommonPrefixCSTests.cs" />
     <Compile Include="ArrayAndString\LongestPalindromicSubstringTests.cs" />
     <Compile Include="ArrayAndString\MaxConsecutiveOnesTests.cs" />
+    <Compile Include="ArrayAndString\MaximumAverageSubarrayITests.cs" />
+    <Compile Include="ArrayAndString\MedianOfTwoSortedArraysTests.cs" />
     <Compile Include="ArrayAndString\MergeIntervalsTests.cs" />
     <Compile Include="ArrayAndString\MinimumSizeSubarraySumTests.cs" />
     <Compile Include="ArrayAndString\MoveZeroesCSTests.cs" />
@@ -69,11 +71,13 @@
     <Compile Include="ArrayAndString\PascalsTriangleTests.cs" />
     <Compile Include="ArrayAndString\RemoveDuplicatesFromSortedArrayTests.cs" />
     <Compile Include="ArrayAndString\RemoveElementCSTests.cs" />
+    <Compile Include="ArrayAndString\ReverseIntegerTests.cs" />
     <Compile Include="ArrayAndString\ReverseStringCSTests.cs" />
     <Compile Include="ArrayAndString\ReverseWordsInAStringIIITests.cs" />
     <Compile Include="ArrayAndString\ReverseWordsInAStringTests.cs" />
     <Compile Include="ArrayAndString\RotateMatrixLcciTests.cs" />
     <Compile Include="ArrayAndString\SearchInsertPositionTests.cs" />
+    <Compile Include="ArrayAndString\SlidingWindowMedianTests.cs" />
     <Compile Include="ArrayAndString\TwoSumIIInputArrayIsSortedTests.cs" />
     <Compile Include="ArrayAndString\ZeroMatrixLcciTests.cs" />
     <Compile Include="CommonUtilTests.cs" />

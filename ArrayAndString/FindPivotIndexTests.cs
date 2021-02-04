@@ -19,5 +19,15 @@ namespace LeetCode.ArrayAndString.Tests
             int expected = 3;
             Assert.AreEqual(expected, result);
         }
+
+
+        [Test()]
+        public void PivotIndex2Test()
+        {
+            int[] test = new int[] { 1, 7, 3, 6, 5, 6 };
+            int result = new FindPivotIndex().PivotIndex2(test);
+            int expected = 3;
+            Assert.AreEqual(expected, result);
+        }
     }
 }
