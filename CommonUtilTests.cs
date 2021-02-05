@@ -15,7 +15,7 @@ namespace LeetCode.Tests
         [Test()]
         public void ConvertToCamelCaseTest()
         {
-            string title = "reverse-integer";
+            string title = "get-equal-substrings-within-budget";
             string result = new CommonUtil().ConvertToCamelCase(title);
         }
 
